@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Velasco</h1>
 <h3 align="center">A passionate JavaScript fullstack developer from Brazil, currently living in Portugal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanrvos&label=Profile%20views&color=0e75b6&style=flat" alt="jeanrvos" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeanrvos&label=Profile%20views&color=0e75b6&style=plastic" alt="jeanrvos" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanrvos" alt="jeanrvos" /></a> </p>
 
@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **AdonisJS, ReactJS, Linux...**
 
 - 📫 How to reach me **velasco.jean@gmail.com**
+
+- ⚡About me **I like 📖💻🎮⚽🎵🛠🎬🏓♟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanrvos&show_icons=true&locale=en&layout=compact" alt="jeanrvos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeanrvos&show_icons=true&locale=en" alt="jeanrvos" /></p>
-
