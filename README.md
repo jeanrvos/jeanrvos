@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeanrvos" alt="jeanrvos" /></a> </p>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About me 👨‍💻:</h3>
 
 - My passion for programming started when I had an opportunity to build tools for my department (using IBM Forms Experience Builder), with no previous knowledge, while working as a Facilities Coordinator at IBM Brazil. That took me to low-code programming, when I found OutSystems and as a curious person, I decided I wanted to know what was behind the scenes and that was when my whole life changed. I found Cubos Academy and they have such an amazing opportunity for people who wants to be a developer, offering a fullstack JavaScript academy where you don't pay anything until you find a job. That is possible because they have a partner called Provi, wich provides the necessary funding. During all the course and also after you finish it, they help you on improving not only your skills, but also preparing you for job opportunities by helping you review your resume, profiles, etc.   
 
